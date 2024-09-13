@@ -10,9 +10,6 @@
       }
     }
   },
-  "navigationFallback": {
-    "rewrite": "/index.html"
-  },
   "routes": [
     {
       "route": "/*",
